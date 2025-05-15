@@ -24,7 +24,6 @@ if 'model_type' not in st.session_state:
 if 'model_source' not in st.session_state:
     st.session_state.model_source = None
 
-# Add this at the top of your file, after imports
 # ============================================================================
 # MODEL COMPATIBILITY HANDLING
 # ============================================================================
@@ -75,9 +74,9 @@ def load_default_model(model_type):
                     model = pickle.load(file)
                 return model, None
             except Exception as pickle_error:
-                # If model is Auto ARIMA, give a specific error message
+                # Generic error for model loading issue
                 if model_type == "Auto ARIMA" and "statsmodels" in str(joblib_error) or "statsmodels" in str(pickle_error):
-                    return None, "Auto ARIMA models may have compatibility issues on Streamlit Cloud. Please try using Exponential Smoothing models instead."
+                    return None, "Error loading model. Please check the model file or try another model type."
                 # Other errors
                 raise Exception(f"Failed to load model: {str(joblib_error)}\n{str(pickle_error)}")
     except Exception as e:
@@ -107,13 +106,13 @@ def load_uploaded_model(uploaded_file, model_type):
                 os.unlink(tmp_path)
                 return model, None
             except Exception as pickle_error:
-                # If model is Auto ARIMA, try reconstruction
+                # Generic error message
                 if model_type == "Auto ARIMA" and "statsmodels" in str(joblib_error) or "statsmodels" in str(pickle_error):
-                    st.warning("Compatibility issue detected. Attempting to reconstruct model...")
+                    st.warning("Loading issue detected. Attempting to reconstruct model...")
                     # Clean up temporary file
                     os.unlink(tmp_path)
-                    # Return a warning instead of an error
-                    return None, "Auto ARIMA models may have compatibility issues on Streamlit Cloud. Please try using Exponential Smoothing models instead."
+                    # Return a generic error message
+                    return None, "Error loading model. Please check the model file or try another model type."
                 # Other errors
                 raise Exception(f"Failed to load model: {str(joblib_error)}\n{str(pickle_error)}")
     
@@ -170,36 +169,6 @@ def main():
     - View interactive forecasts
     - Download prediction results
     """)
-    
-    # Display cloud compatibility notice in sidebar
-    st.sidebar.markdown("### ☁️ Cloud Compatibility")
-    st.sidebar.info("""
-    **Note:** Auto ARIMA models may have compatibility issues when running on Streamlit Cloud.
-    
-    If you encounter loading errors with ARIMA models, we recommend:
-    1. Using Exponential Smoothing models instead
-    2. Training models in an environment matching Streamlit Cloud
-    3. Using the same package versions as specified in requirements.txt
-    """)
-    
-    # Add requirements.txt download option
-    requirements_txt = """
-streamlit==1.32.0
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.8.4
-seaborn==0.13.2
-plotly==5.24.1
-joblib==1.4.2
-statsmodels==0.14.1
-    """.strip()
-    
-    st.sidebar.download_button(
-        label="Download requirements.txt",
-        data=requirements_txt,
-        file_name="requirements.txt",
-        mime="text/plain"
-    )
     
     # Model selection section
     st.header("🤖 Model Selection")
