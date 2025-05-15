@@ -309,15 +309,38 @@ def main():
                     - Values represent dollar amount changes
                     """)
                     
-                    # Format the dataframe for display
+                    # Format the dataframe for display WITH COLOR CODING
                     display_df = prediction_df.copy()
-                    display_df['Predicted_Sales'] = display_df['Predicted_Sales'].apply(
+
+                    # Add color coding using Streamlit's styling
+                    def color_sales(val):
+                        """Apply color coding to sales values"""
+                        # Extract the numeric value from the formatted string if needed
+                        numeric_val = val if isinstance(val, (int, float)) else float(val.replace('$', '').replace(',', '').replace('-', ''))
+                        
+                        # Set background color based on value
+                        color = 'background-color: #c6ecc6;' if numeric_val >= 0 else 'background-color: #ffc0c0;'
+                        return color
+                    
+                    # Format values as strings with $ signs
+                    display_df['Formatted_Sales'] = display_df['Predicted_Sales'].apply(
                         lambda x: f"${x:,.2f}" if x >= 0 else f"-${abs(x):,.2f}"
                     )
                     
-                    # Display data table
+                    # Create a styled dataframe
+                    styled_df = display_df[['Week', 'Date', 'Formatted_Sales']].rename(
+                        columns={'Formatted_Sales': 'Predicted_Sales'}
+                    )
+                    
+                    # Apply styling based on the original numeric values
+                    styled_df = styled_df.style.apply(
+                        lambda x: [''] * 2 + [color_sales(display_df.loc[x.name, 'Predicted_Sales'])], 
+                        axis=1
+                    )
+                    
+                    # Display colored data table
                     st.subheader("📋 Prediction Values")
-                    st.dataframe(display_df, use_container_width=True, hide_index=True)
+                    st.dataframe(styled_df, use_container_width=True, hide_index=True)
                     
                     # Download section
                     st.subheader("💾 Download Results")
