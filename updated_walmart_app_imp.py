@@ -382,7 +382,6 @@ def main():
     st.markdown("""
     <div style='text-align: center'>
         <p>Walmart Sales Forecasting System © 2025</p>
-        <p><small>Built with ❤️ using Streamlit</small></p>
     </div>
     """, unsafe_allow_html=True)
 
