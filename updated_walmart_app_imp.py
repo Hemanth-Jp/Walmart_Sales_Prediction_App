@@ -180,7 +180,7 @@ def main():
         st.subheader("Use Default Models")
         
         # Show only Exponential Smoothing model
-        if st.button("Load Exponential Smoothing Model", use_container_width=True):
+        if st.button("Load Exponential Smoothing (Holt-Winters) Model", use_container_width=True):
             model, error = load_default_model("Exponential Smoothing (Holt-Winters)")
             if error:
                 st.error(error)
@@ -188,7 +188,7 @@ def main():
                 st.session_state.current_model = model
                 st.session_state.model_type = "Exponential Smoothing (Holt-Winters)"
                 st.session_state.model_source = "Default"
-                st.success("✅ Exponential Smoothing model loaded successfully!")
+                st.success("✅ Exponential Smoothing (Holt-Winters) model loaded successfully!")
     
     with tab2:
         st.subheader("Upload Custom Model")
