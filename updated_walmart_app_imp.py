@@ -49,8 +49,8 @@ def load_default_model(model_type):
     """Load default model from models/default/ directory with improved error handling"""
     # Map display names to file names
     model_file_map = {
-        "Auto ARIMA": "auto_arima",
-        "Exponential Smoothing (Holt-Winters)": "exponential_smoothing"
+        "Auto ARIMA": "AutoARIMA",
+        "Exponential Smoothing (Holt-Winters)": "ExponentialSmoothingHoltWinters"
     }
     
     file_name = model_file_map.get(model_type)
