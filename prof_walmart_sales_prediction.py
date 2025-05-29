@@ -22,7 +22,7 @@ def add_logo():
     """Add logo to the top left corner of the app"""
     try:
         # Try to load the logo image
-        logo_path = "assets/logo.png"  # Adjust path as needed
+        logo_path = "assets/UniLogo.png"  # Adjust path as needed
         if os.path.exists(logo_path):
             logo = Image.open(logo_path)
             
