@@ -1,0 +1,76 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: WalmartSalesForecastingLiterature.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: Slides/start.aux
+A level-1 auxiliary file: Slides/literature.aux
+A level-1 auxiliary file: Slides/end.aux
+A level-1 auxiliary file: Slides/quellen.aux
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: WalmartSalesForecastingLiterature-blx.bib
+Database file #2: Documents/MyLiterature.bib
+Reallocated field_info (elt_size=4) to 10040 items from 5000.
+I was expecting a `,' or a `}'---line 486 of file Documents/MyLiterature.bib
+ : 
+ : %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 71 entries,
+            6399 wiz_defined-function locations,
+            1701 strings with 31261 characters,
+and the built_in function-call counts, 466634 in all, are:
+= -- 34223
+> -- 7494
+< -- 2739
++ -- 10737
+- -- 2795
+* -- 34025
+:= -- 48135
+add.period$ -- 0
+call.type$ -- 71
+change.case$ -- 1242
+chr.to.int$ -- 45
+cite$ -- 140
+duplicate$ -- 48434
+empty$ -- 43716
+format.name$ -- 5047
+if$ -- 96881
+int.to.chr$ -- 0
+int.to.str$ -- 202
+missing$ -- 0
+newline$ -- 2135
+num.names$ -- 3660
+pop$ -- 25037
+preamble$ -- 1
+purify$ -- 1516
+quote$ -- 0
+skip$ -- 13137
+stack$ -- 0
+substring$ -- 61783
+swap$ -- 10688
+text.length$ -- 2325
+text.prefix$ -- 168
+top$ -- 1
+type$ -- 2402
+warning$ -- 0
+while$ -- 5790
+width$ -- 0
+write$ -- 2065
+(There was 1 error message)

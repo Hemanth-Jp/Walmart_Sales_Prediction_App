@@ -1,0 +1,2193 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{Box:2016}{book}{}
+    \name{author}{4}{}{%
+      {{hash=BGEP}{%
+         family={Box},
+         familyi={B\bibinitperiod},
+         given={George E.\bibnamedelima P.},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=JGM}{%
+         family={Jenkins},
+         familyi={J\bibinitperiod},
+         given={Gwilym\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RGC}{%
+         family={Reinsel},
+         familyi={R\bibinitperiod},
+         given={Greta\bibnamedelima C.},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=LGM}{%
+         family={Ljung},
+         familyi={L\bibinitperiod},
+         given={Gregory\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{BGEP+1}
+    \strng{fullhash}{BGEPJGMRGCLGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Box+16}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{edition}{5}
+    \field{isbn}{978-1-118-67492-5}
+    \field{note}{Definitive resource on Box-Jenkins methodology covering ARIMA
+  modeling, transfer functions, intervention analysis, and multivariate time
+  series. Includes updated material on state-space models and nonlinear time
+  series.}
+    \field{title}{Time Series Analysis: Forecasting and Control}
+    \verb{url}
+    \verb http://repo.darmajaya.ac.id/4781/1/Time%20Series%20Analysis_%20Foreca
+    \verb sting%20and%20Control%20%28%20PDFDrive%20%29.pdf
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{Chacon:2014}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CS}{%
+         family={Chacon},
+         familyi={C\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Straub},
+         familyi={S\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Apress}%
+    }
+    \strng{namehash}{CSSB1}
+    \strng{fullhash}{CSSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CS14}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{edition}{2nd}
+    \field{title}{Pro Git}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Chen:2023}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CM}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Sarah},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Data Science Publishers}%
+    }
+    \strng{namehash}{CMZS1}
+    \strng{fullhash}{CMZS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CZ23}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{112\bibrangedash 128}
+    \field{title}{Rapid Prototyping of Data Science Applications with
+  Streamlit}
+    \field{volume}{15}
+    \field{journaltitle}{Journal of Data Science Tools}
+    \field{year}{2023}
+  \endentry
+
+  \entry{TowardsSeaborn:2023}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CTDS}{%
+         family={Community},
+         familyi={C\bibinitperiod},
+         given={Towards Data\bibnamedelima Science},
+         giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CTDS1}
+    \strng{fullhash}{CTDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Com23}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{Community-driven tutorials and advanced techniques for seaborn
+  usage. Practical examples and real-world applications for data visualization
+  best practices. Accessed: 2024-06-18}
+    \field{title}{A Complete Guide to Seaborn for Statistical Data
+  Visualization}
+    \verb{url}
+    \verb https://towardsdatascience.com/
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{WikiPytest:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CW}{%
+         family={Contributors},
+         familyi={C\bibinitperiod},
+         given={Wikipedia},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CW1}
+    \strng{fullhash}{CW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Con24}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{Historical overview of pytest development from PyPy project
+  origins to modern testing framework. Includes architectural details, feature
+  descriptions, and adoption by major organizations. Accessed: 2024-06-19}
+    \field{title}{Pytest - Wikipedia}
+    \verb{url}
+    \verb https://en.wikipedia.org/wiki/Pytest
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Droettboom:2021}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{3}{}{%
+      {{hash=DM}{%
+         family={Droettboom},
+         familyi={D\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CTA}{%
+         family={Caswell},
+         familyi={C\bibinitperiod},
+         given={Thomas\bibnamedelima A.},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hunter},
+         familyi={H\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DMCTAHJ+1}
+    \strng{fullhash}{DMCTAHJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{DCH+21}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.21105/joss.03127
+    \endverb
+    \field{note}{Recent developments in Matplotlib architecture and performance
+  improvements. Details modern features and future roadmap for the library.
+  Essential reading for understanding current capabilities.}
+    \field{number}{64}
+    \field{pages}{3127}
+    \field{title}{Matplotlib 3.0: A Modern Plotting Library}
+    \field{volume}{6}
+    \field{journaltitle}{Journal of Open Source Software}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Fildes:2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FR}{%
+         family={Fildes},
+         familyi={F\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Goodwin},
+         familyi={G\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FRGP1}
+    \strng{fullhash}{FRGP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{FG19}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.ijforecast.2019.06.004
+    \endverb
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 9}
+    \field{title}{Retail forecasting: Research and practice}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/abs/pii/S01692070193019
+    \verb 2X
+    \endverb
+    \field{volume}{35}
+    \field{journaltitle}{International Journal of Forecasting}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Fayyad:1996}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FU}{%
+         family={Fayyad},
+         familyi={F\bibinitperiod},
+         given={Usama},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=PSG}{%
+         family={Piatetsky-Shapiro},
+         familyi={P\bibinithyphendelim S\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Smyth},
+         familyi={S\bibinitperiod},
+         given={Padhraic},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for the Advancement of Artificial Intelligence}%
+    }
+    \strng{namehash}{FUPSGSP1}
+    \strng{fullhash}{FUPSGSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{FPSS96}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Seminal paper establishing the KDD (Knowledge Discovery in
+  Databases) process framework. This foundational work defines the systematic
+  approach to extracting useful knowledge from large datasets and provides the
+  theoretical basis for modern data mining methodologies.}
+    \field{number}{3}
+    \field{pages}{37\bibrangedash 54}
+    \field{title}{From data mining to knowledge discovery in databases}
+    \verb{url}
+    \verb https://doi.org/10.1609/aimag.v17i3.1230
+    \endverb
+    \field{volume}{17}
+    \field{journaltitle}{AI Magazine}
+    \field{year}{1996}
+  \endentry
+
+  \entry{Guyon:2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GI}{%
+         family={Guyon},
+         familyi={G\bibinitperiod},
+         given={Isabelle},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Elisseeff},
+         familyi={E\bibinitperiod},
+         given={André},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{GIEA1}
+    \strng{fullhash}{GIEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GE03}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{isbn}{978-3-540-35488-2}
+    \field{note}{Comprehensive survey of feature selection techniques including
+  filter, wrapper, and embedded methods. Discusses relevance criteria,
+  stability analysis, and computational complexity for high-dimensional data.}
+    \field{series}{Feature Extraction: Foundations and Applications}
+    \field{title}{An Introduction to Feature Selection}
+    \verb{url}
+    \verb https://dl.icdst.org/pdfs/files/dc621d7f9a73b6802307f074c36c5db9.pdf
+    \endverb
+    \field{volume}{207}
+    \field{year}{2003}
+  \endentry
+
+  \entry{GeeksforGeeks:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={GeeksforGeeks},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gee24}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{Beginner-friendly guide to pytest fundamentals including
+  installation, basic usage, and testing patterns. Covers unit testing,
+  parametrization, and fixture concepts with practical examples. Accessed:
+  2024-06-19}
+    \field{title}{Getting Started with Pytest - Python Testing Framework}
+    \verb{url}
+    \verb https://www.geeksforgeeks.org/python/getting-started-with-pytest/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{GitHub:2023}{online}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={{GitHub}},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G2}
+    \strng{fullhash}{G2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Git}23}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{Accessed: 2025-05-30}
+    \field{title}{GitHub Actions Documentation}
+    \verb{url}
+    \verb https://docs.github.com/en/actions
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{Yasserh:WalmartDataset}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HY}{%
+         family={H.},
+         familyi={H\bibinitperiod},
+         given={Yasser},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HY1}
+    \strng{fullhash}{HY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{H.23}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+  \field{howpublished}{\url{https://www.kaggle.com/datasets/yasserh/walmart-dataset/data}}
+    \field{note}{Accessed: 2025-06-25}
+    \field{title}{Walmart Dataset}
+    \field{year}{2023}
+  \endentry
+
+  \entry{HyndmanAthanasopoulos:2021}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HRJ}{%
+         family={Hyndman},
+         familyi={H\bibinitperiod},
+         given={Rob\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Athanasopoulos},
+         familyi={A\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OTexts}%
+    }
+    \strng{namehash}{HRJAG1}
+    \strng{fullhash}{HRJAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{HA21}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{edition}{3rd}
+    \field{note}{Comprehensive textbook on forecasting, including theoretical
+  foundation for ARIMA modeling as implemented in pmdarima.}
+    \field{title}{Forecasting: Principles and Practice}
+    \verb{url}
+    \verb https://otexts.com/fpp3/
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{Humble:2010}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HJ}{%
+         family={Humble},
+         familyi={H\bibinitperiod},
+         given={Jez},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FD}{%
+         family={Farley},
+         familyi={F\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison-Wesley}%
+    }
+    \strng{namehash}{HJFD1}
+    \strng{fullhash}{HJFD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{HF10}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Continuous Delivery: Reliable Software Releases through
+  Build, Test, and Deployment Automation}
+    \field{year}{2010}
+  \endentry
+
+  \entry{HyndmanKhandakar:2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HRJ}{%
+         family={Hyndman},
+         familyi={H\bibinitperiod},
+         given={Rob\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KY}{%
+         family={Khandakar},
+         familyi={K\bibinitperiod},
+         given={Yeasmin},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRJKY1}
+    \strng{fullhash}{HRJKY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{HK08}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{Foundational paper introducing the Auto ARIMA algorithm and
+  its implementation in the forecast package. Describes the stepwise search
+  procedure and statistical tests used for automatic model selection. Essential
+  reference for understanding the theoretical foundations of automated ARIMA
+  modeling.}
+    \field{number}{3}
+    \field{pages}{1\bibrangedash 22}
+    \field{title}{Automatic Time Series Forecasting: The forecast Package for
+  R}
+    \verb{url}
+    \verb https://www.jstatsoft.org/article/view/v027i03
+    \endverb
+    \field{volume}{27}
+    \field{journaltitle}{Journal of Statistical Software}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Harris:2020}{article}{}
+    \name{author}{10}{}{%
+      {{hash=HCR}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={Charles\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MKJ}{%
+         family={Millman},
+         familyi={M\bibinitperiod},
+         given={K.\bibnamedelima Jarrod},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=vdWSJ}{%
+         prefix={van\bibnamedelima der},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Walt},
+         familyi={W\bibinitperiod},
+         given={St{\'e}fan\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gommers},
+         familyi={G\bibinitperiod},
+         given={Ralf},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Virtanen},
+         familyi={V\bibinitperiod},
+         given={Pauli},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Cournapeau},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WE}{%
+         family={Wieser},
+         familyi={W\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Berg},
+         familyi={B\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SNJ}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Nathaniel\bibnamedelima J.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{HCR+1}
+    \strng{fullhash}{HCRMKJWSJvdGRVPCDWETJBSSNJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Har+20}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1038/s41586-020-2649-2
+    \endverb
+    \field{note}{Seminal research paper describing NumPy's architecture, design
+  principles, and impact on scientific computing. Published in Nature,
+  demonstrating NumPy's significance in the scientific community}
+    \field{number}{7825}
+    \field{pages}{357\bibrangedash 362}
+    \field{title}{Array programming with NumPy}
+    \field{volume}{585}
+    \field{journaltitle}{Nature}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Hunter:2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJD}{%
+         family={Hunter},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \strng{namehash}{HJD1}
+    \strng{fullhash}{HJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Hun07}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1109/MCSE.2007.55
+    \endverb
+    \field{note}{Seminal paper introducing Matplotlib and its design
+  philosophy. Describes the library's architecture and demonstrates its
+  capabilities for scientific computing. Accessed: 2024-06-17}
+    \field{number}{3}
+    \field{pages}{90\bibrangedash 95}
+    \field{title}{Matplotlib: A 2D Graphics Environment}
+    \field{volume}{9}
+    \field{journaltitle}{Computing in Science \& Engineering}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Joblib:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=J}{%
+         family={{Joblib Development Team}},
+         familyi={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{J1}
+    \strng{fullhash}{J1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Job}24}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{note}{Comprehensive official documentation covering memory caching,
+  parallel processing, and efficient persistence for Python applications.
+  Includes detailed API reference, examples, and performance optimization
+  guides. Accessed: 2024-06-18}
+    \field{title}{Joblib: Running Python Functions as Pipeline Jobs}
+    \verb{url}
+    \verb https://joblib.readthedocs.io/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Towards:2023}{online}{}
+    \name{author}{1}{}{%
+      {{hash=JA}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JA1}
+    \strng{fullhash}{JA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Joh23}
+    \field{extraalpha}{1}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{note}{Accessed: 2024-06-16}
+    \field{title}{Streamlit 101: An In-Depth Introduction}
+    \verb{url}
+    \verb https://towardsdatascience.com/streamlit-101-an-in-depth-introduction
+    \verb -fc8aad9492f2
+    \endverb
+    \field{journaltitle}{Towards Data Science}
+    \field{year}{2023}
+  \endentry
+
+  \entry{TowardsDS:2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JM}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Marcus},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JM1}
+    \strng{fullhash}{JM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Joh23}
+    \field{extraalpha}{2}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{note}{Practical tutorial demonstrating Joblib implementation in data
+  science pipelines, covering caching strategies, parallel processing
+  optimization, and real-world performance benchmarks. Includes comparative
+  analysis with other parallelization libraries.}
+    \field{title}{Using Joblib to Speed Up Your Python Pipelines}
+    \verb{url}
+    \verb https://towardsdatascience.com/using-joblib-to-speed-up-your-python-p
+    \verb ipelines-dd97440c653d
+    \endverb
+    \field{journaltitle}{Towards Data Science}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Gardner:2006}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JESG}{%
+         family={Jr.},
+         familyi={J\bibinitperiod},
+         given={Everette S.\bibnamedelima Gardner},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JESG1}
+    \strng{fullhash}{JESG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Jr.06}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{note}{Comprehensive review of exponential smoothing methods covering
+  theoretical developments, practical applications, and comparative performance
+  analysis. Provides modern perspective on the evolution and effectiveness of
+  exponential smoothing in contemporary forecasting practice.}
+    \field{number}{4}
+    \field{pages}{637\bibrangedash 666}
+    \field{title}{Exponential Smoothing: The State of the Art—Part II}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0169207006000392
+    \endverb
+    \field{volume}{22}
+    \field{journaltitle}{International Journal of Forecasting}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Kim:2016}{book}{}
+    \name{author}{4}{}{%
+      {{hash=KG}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Gene},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Humble},
+         familyi={H\bibinitperiod},
+         given={Jez},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Debois},
+         familyi={D\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Willis},
+         familyi={W\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IT Revolution Press}%
+    }
+    \strng{namehash}{KG+1}
+    \strng{fullhash}{KGHJDPWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Kim+16}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{The DevOps Handbook}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Loyal:2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LJD}{%
+         family={Loyal},
+         familyi={L\bibinitperiod},
+         given={Joshua\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJD1}
+    \strng{fullhash}{LJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Loy17}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{The Walmart Sales Project}
+    \verb{url}
+    \verb https://joshloyal.github.io/assets/pdf/forecasting_intro.pdf
+    \endverb
+    \field{journaltitle}{Unpublished Manuscript}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Montgomery:2008}{book}{}
+    \name{author}{3}{}{%
+      {{hash=MDC}{%
+         family={Montgomery},
+         familyi={M\bibinitperiod},
+         given={Douglas\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=JCL}{%
+         family={Jennings},
+         familyi={J\bibinitperiod},
+         given={Cheryl\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kulahci},
+         familyi={K\bibinitperiod},
+         given={Murat},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{MDCJCLKM1}
+    \strng{fullhash}{MDCJCLKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MJK08}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{edition}{1}
+    \field{isbn}{978-0-470-11742-8}
+    \field{note}{Provides comprehensive coverage of time series decomposition,
+  exponential smoothing, ARIMA modeling, and forecasting evaluation metrics.
+  Includes case studies from engineering and business applications.}
+    \field{title}{Introduction to Time Series Analysis and Forecasting}
+    \verb{url}
+    \verb https://pedro.unifei.edu.br/download/Montgomery.pdf
+    \endverb
+    \field{year}{2008}
+  \endentry
+
+  \entry{McElroy:2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MTS}{%
+         family={McElroy},
+         familyi={M\bibinitperiod},
+         given={Tucker\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MBC}{%
+         family={Monsell},
+         familyi={M\bibinitperiod},
+         given={Brian\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HRJ}{%
+         family={Hutchinson},
+         familyi={H\bibinitperiod},
+         given={Rebecca\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MTSMBCHRJ1}
+    \strng{fullhash}{MTSMBCHRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MMH18}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Modeling of Holiday Effects and Seasonality in Daily Time
+  Series}
+    \verb{url}
+    \verb https://www.census.gov/content/dam/Census/library/working-papers/2018
+    \verb /adrm/rrs2018-01.pdf
+    \endverb
+    \field{journaltitle}{U.S. Census Bureau Working Papers}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Maimon:2005}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MO}{%
+         family={Maimon},
+         familyi={M\bibinitperiod},
+         given={Oded},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rokach},
+         familyi={R\bibinitperiod},
+         given={Lior},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{MORL1}
+    \strng{fullhash}{MORL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MR05}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Data Mining and Knowledge Discovery Handbook}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Mane:2022}{inproceedings}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=MS}{%
+         family={Mane},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{MS+1}
+    \strng{fullhash}{MS+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Man+22}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{2022 IEEE International Conference on Distributed
+  Computing and Electrical Circuits and Electronics (ICDCECE)}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Comparative Analysis of ML Algorithms \& Stream Lit Web
+  Application}
+    \verb{url}
+    \verb https://ieeexplore.ieee.org/document/9987988
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{Matplotlib:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={{Matplotlib Development Team}},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Mat}24}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{note}{Official Matplotlib documentation and API reference.
+  Comprehensive resource covering installation, tutorials, examples, and
+  advanced usage patterns. Accessed: 2024-06-17}
+    \field{title}{Matplotlib: Visualization with Python}
+    \verb{url}
+    \verb https://matplotlib.org/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{McKinney:2010}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MW}{%
+         family={McKinney},
+         familyi={M\bibinitperiod},
+         given={Wes},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=vdWS}{%
+         prefix={van\bibnamedelima der},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Walt},
+         familyi={W\bibinitperiod},
+         given={St\'efan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Millman},
+         familyi={M\bibinitperiod},
+         given={Jarrod},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MW1}
+    \strng{fullhash}{MW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{McK10}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{note}{Foundational paper introducing pandas data structures and
+  design philosophy. Essential reading for understanding pandas' architectural
+  decisions and core concepts.}
+    \field{pages}{56\bibrangedash 61}
+    \field{title}{Data Structures for Statistical Computing in Python}
+    \field{journaltitle}{Proceedings of the 9th Python in Science Conference}
+    \field{year}{2010}
+  \endentry
+
+  \entry{McKinney:2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MW}{%
+         family={McKinney},
+         familyi={M\bibinitperiod},
+         given={Wes},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {O'Reilly Media}%
+    }
+    \strng{namehash}{MW1}
+    \strng{fullhash}{MW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{McK12}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{note}{Comprehensive guide to Python data analysis ecosystem
+  including integration patterns with statsmodels. Provides context for
+  statistical analysis within broader data science workflows.}
+    \field{title}{Python for Data Analysis: Data Wrangling with Pandas, NumPy,
+  and IPython}
+    \field{year}{2012}
+  \endentry
+
+  \entry{McKinney:2023}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MW}{%
+         family={McKinney},
+         familyi={M\bibinitperiod},
+         given={Wes},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {O'Reilly Media}%
+    }
+    \strng{namehash}{MW1}
+    \strng{fullhash}{MW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{McK23}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{edition}{3rd}
+    \field{isbn}{9781098104030}
+    \field{note}{Authoritative guide to Python data analysis ecosystem,
+  including visualization best practices and integration patterns with Plotly
+  and other visualization libraries.}
+    \field{title}{Python for Data Analysis: Data Wrangling with pandas, NumPy,
+  and Jupyter}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Morris:2016}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MK}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={Kief},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {O'Reilly Media}%
+    }
+    \strng{namehash}{MK1}
+    \strng{fullhash}{MK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mor16}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Infrastructure as Code: Managing Servers in the Cloud}
+    \field{year}{2016}
+  \endentry
+
+  \entry{NumPy:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{NumPy Development Team}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Num}24}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{note}{Comprehensive official documentation covering API reference,
+  user guide, and tutorials for NumPy numerical computing library. Accessed:
+  2024-06-17}
+    \field{title}{NumPy Official Documentation}
+    \verb{url}
+    \verb https://numpy.org/doc/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Oliphant:2023}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=OTE}{%
+         family={Oliphant},
+         familyi={O\bibinitperiod},
+         given={Travis\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OTE1}
+    \strng{fullhash}{OTE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Oli23}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{note}{Comprehensive guide by NumPy's creator, covering fundamental
+  concepts, advanced usage patterns, and performance optimization techniques
+  for numerical computing in Python}
+    \field{title}{NumPy: A Guide to NumPy}
+    \verb{url}
+    \verb https://numpy.org/doc/stable/
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{Pao:2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PJJ}{%
+         family={Pao},
+         familyi={P\bibinitperiod},
+         given={James\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SDS}{%
+         family={Sullivan},
+         familyi={S\bibinitperiod},
+         given={Danielle\bibnamedelima S.},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJJSDS1}
+    \strng{fullhash}{PJJSDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{PS17}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Time Series Sales Forecasting}
+    \verb{url}
+    \verb https://cs229.stanford.edu/proj2017/final-reports/5244336.pdf
+    \endverb
+    \field{journaltitle}{CS229: Machine Learning Final Projects}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Piatetsky:1991}{book}{}
+    \name{editor}{2}{}{%
+      {{hash=PSG}{%
+         family={Piatetsky-Shapiro},
+         familyi={P\bibinithyphendelim S\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FWJ}{%
+         family={Frawley},
+         familyi={F\bibinitperiod},
+         given={William\bibnamedelima J},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {AAAI/MIT Press}%
+    }
+    \strng{namehash}{PSGFWJ1}
+    \strng{fullhash}{PSGFWJ1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{PSF91}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{isbn}{0-262-62080-4}
+    \field{note}{The foundational edited volume that established Knowledge
+  Discovery in Databases as a research field. Contains seminal chapters on KDD
+  methodology, discovery algorithms, and early applications. This book
+  collection represents the first comprehensive treatment of systematic
+  knowledge extraction from databases and includes the original "Knowledge
+  Discovery in Databases: An Overview" chapter by Frawley, Piatetsky-Shapiro,
+  and Matheus.}
+    \field{title}{Knowledge Discovery in Databases}
+    \verb{url}
+    \verb https://mitpress.mit.edu/9780262660709/knowledge-discovery-in-databas
+    \verb es/
+    \endverb
+    \list{location}{1}{%
+      {Cambridge, MA}%
+    }
+    \field{year}{1991}
+  \endentry
+
+  \entry{Perktold:2023}{misc}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{2}{}{%
+      {{hash=PJ}{%
+         family={Perktold},
+         familyi={P\bibinitperiod},
+         given={Josef},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJTJ+1}
+    \strng{fullhash}{PJTJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{PT+23}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Technical overview of recent developments in statsmodels
+  including new statistical methods, performance improvements, and integration
+  enhancements. Essential for understanding current capabilities.}
+    \field{title}{Statistical Inference and Econometric Methods in Python:
+  Current State and Future Directions}
+    \verb{url}
+    \verb https://www.statsmodels.org/stable/release/index.html
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{Pavlyshenko:2019}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PBM}{%
+         family={Pavlyshenko},
+         familyi={P\bibinitperiod},
+         given={Bohdan\bibnamedelima M.},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MDPI}%
+    }
+    \strng{namehash}{PBM1}
+    \strng{fullhash}{PBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Pav19}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.3390/data4010015
+    \endverb
+    \field{number}{1}
+    \field{pages}{15}
+    \field{title}{Machine-Learning Models for Sales Time Series Forecasting}
+    \verb{url}
+    \verb https://doi.org/10.3390/data4010015
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{Data}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Plotly:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{Plotly Technologies Inc.}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Plo}24}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Comprehensive official documentation covering all aspects of
+  Plotly Python library including API reference, tutorials, and examples.
+  Accessed: 2024-06-16}
+    \field{title}{Plotly Python Documentation}
+    \verb{url}
+    \verb https://plotly.com/python/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Pmdarima:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{Pmdarima Development Team}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P2}
+    \strng{fullhash}{P2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Pmd}24}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Python's forecast::auto.arima equivalent. Comprehensive
+  documentation covering automatic ARIMA model selection, seasonal modeling,
+  and sklearn integration. Accessed: 2025-06-19}
+    \field{title}{{pmdarima: ARIMA estimators for Python}}
+    \verb{url}
+    \verb https://alkaline-ml.com/pmdarima/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{RealPython:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Python},
+         familyi={P\bibinitperiod},
+         given={Real},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Pyt24}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Comprehensive tutorial covering intermediate and advanced
+  pytest features including fixtures, marks, parameters, and plugins. Provides
+  practical examples and best practices for productive testing. Accessed:
+  2024-06-19}
+    \field{title}{Effective Python Testing With pytest}
+    \verb{url}
+    \verb https://realpython.com/pytest-python-testing/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Seabold:2010}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=SS}{%
+         family={Seabold},
+         familyi={S\bibinitperiod},
+         given={Skipper},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Perktold},
+         familyi={P\bibinitperiod},
+         given={Josef},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {SciPy}%
+    }
+    \strng{namehash}{SSPJ1}
+    \strng{fullhash}{SSPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SP10}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Proceedings of the 9th Python in Science Conference}
+    \field{note}{Original paper introducing statsmodels architecture and design
+  principles. Fundamental reference for understanding the library's statistical
+  foundations and implementation approach.}
+    \field{pages}{92\bibrangedash 96}
+    \field{title}{Statsmodels: Econometric and Statistical Modeling with
+  Python}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Smith:2023}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=STG}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Taylor\bibnamedelima G.},
+         giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=c}{%
+         family={contributors},
+         familyi={c\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{STGc1}
+    \strng{fullhash}{STGc1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sc23}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Official repository for pmdarima. Includes examples, issue
+  tracking, and implementation details.}
+    \field{title}{{pmdarima GitHub Repository}}
+    \verb{url}
+    \verb https://github.com/alkaline-ml/pmdarima
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{SciPy:2023}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SciPy Community}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Sci}23}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Community documentation discussing performance optimization
+  strategies in scientific Python, including Joblib integration patterns and
+  best practices for computational workflows. Accessed: 2024-06-18}
+    \field{title}{Performance and Parallelization in the SciPy Ecosystem}
+    \verb{url}
+    \verb https://scipy.org/scipylib/faq.html#performance
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{Sculley:2015}{inproceedings}{}
+    \name{author}{10}{}{%
+      {{hash=SD}{%
+         family={Sculley},
+         familyi={S\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Holt},
+         familyi={H\bibinitperiod},
+         given={Gary},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Golovin},
+         familyi={G\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={Davydov},
+         familyi={D\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={Todd},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ED}{%
+         family={Ebner},
+         familyi={E\bibinitperiod},
+         given={Dietmar},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CV}{%
+         family={Chaudhary},
+         familyi={C\bibinitperiod},
+         given={Vinay},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=YM}{%
+         family={Young},
+         familyi={Y\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CJF}{%
+         family={Crespo},
+         familyi={C\bibinitperiod},
+         given={Jean-Francois},
+         giveni={J\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Dennison},
+         familyi={D\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SD+1}
+    \strng{fullhash}{SDHGGDDEPTEDCVYMCJFDD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Scu+15}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Advances in Neural Information Processing Systems}
+    \field{note}{Influential paper from Google researchers highlighting the
+  challenges of maintaining machine learning systems in production. Discusses
+  ML-specific technical debt including boundary erosion, entanglement, hidden
+  feedback loops, and system-level anti-patterns. Essential reading for
+  understanding real-world ML deployment challenges.}
+    \field{pages}{2503\bibrangedash 2511}
+    \field{title}{Hidden technical debt in machine learning systems}
+    \verb{url}
+    \verb https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-le
+    \verb arning-systems
+    \endverb
+    \field{volume}{28}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Shearer:2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SC}{%
+         family={Shearer},
+         familyi={S\bibinitperiod},
+         given={Colin},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Data Warehousing Institute}%
+    }
+    \strng{namehash}{SC1}
+    \strng{fullhash}{SC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{She00}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Industry-standard methodology for data mining projects.
+  CRISP-DM provides a business-oriented framework with six phases: Business
+  Understanding, Data Understanding, Data Preparation, Modeling, Evaluation,
+  and Deployment. Widely adopted in commercial applications.}
+    \field{number}{4}
+    \field{pages}{13\bibrangedash 22}
+    \field{title}{The CRISP-DM model: the new blueprint for data mining}
+    \verb{url}
+    \verb https://mineracaodedados.files.wordpress.com/2012/04/the-crisp-dm-mod
+    \verb el-the-new-blueprint-for-data-mining-shearer-colin.pdf
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Journal of Data Warehousing}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Sievert:2020}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SC}{%
+         family={Sievert},
+         familyi={S\bibinitperiod},
+         given={Carson},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Chapman}%
+      {Hall/CRC}%
+    }
+    \strng{namehash}{SC2}
+    \strng{fullhash}{SC2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sie20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{isbn}{9781138331457}
+    \field{note}{Comprehensive guide to interactive data visualization
+  principles and implementation, with extensive coverage of Plotly's
+  architecture and capabilities. Essential reading for understanding modern
+  interactive visualization techniques.}
+    \field{title}{Interactive Web-Based Data Visualization with R, plotly, and
+  shiny}
+    \verb{url}
+    \verb https://plotly-r.com/
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{Statsmodels:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{Statsmodels Development Team}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Sta}24}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Comprehensive statistical modeling library providing
+  regression analysis, time series analysis, and econometric methods. Official
+  documentation with API reference and examples. Accessed: 2024-06-19}
+    \field{title}{Statsmodels: Statistical Modeling and Econometrics in Python}
+    \verb{url}
+    \verb https://www.statsmodels.org/stable/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Streamlit:2024dependencies}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Streamlit},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S3}
+    \strng{fullhash}{S3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Str24}
+    \field{extraalpha}{1}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2025-06-30}
+    \field{title}{App dependencies - Streamlit Community Cloud}
+    \verb{url}
+    \verb https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-you
+    \verb r-app/app-dependencies
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Streamlit:2024deploy}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Streamlit},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S3}
+    \strng{fullhash}{S3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Str24}
+    \field{extraalpha}{2}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2025-06-30}
+    \field{title}{Deploy your app on Community Cloud}
+    \verb{url}
+    \verb https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-you
+    \verb r-app/deploy
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Streamlit:2024fileorg}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Streamlit},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S3}
+    \strng{fullhash}{S3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Str24}
+    \field{extraalpha}{3}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2025-06-30}
+    \field{title}{File organization - Streamlit Community Cloud}
+    \verb{url}
+    \verb https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-you
+    \verb r-app/file-organization
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Streamlit:2024manage}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Streamlit},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S3}
+    \strng{fullhash}{S3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Str24}
+    \field{extraalpha}{4}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2025-06-30}
+    \field{title}{Manage your app - Streamlit Community Cloud}
+    \verb{url}
+    \verb https://docs.streamlit.io/deploy/streamlit-community-cloud/manage-you
+    \verb r-app
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{StreamlitDeploy:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Streamlit},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S3}
+    \strng{fullhash}{S3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Str24}
+    \field{extraalpha}{5}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2025-06-30}
+    \field{title}{Prep and deploy your app on Community Cloud}
+    \verb{url}
+    \verb https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-you
+    \verb r-app
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Streamlit:2024quickstart}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Streamlit},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S3}
+    \strng{fullhash}{S3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Str24}
+    \field{extraalpha}{6}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2025-06-30}
+    \field{title}{Quickstart - Get started with Streamlit Community Cloud}
+    \verb{url}
+    \verb https://docs.streamlit.io/deploy/streamlit-community-cloud/get-starte
+    \verb d/quickstart
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Streamlit:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{Streamlit Inc.}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S4}
+    \strng{fullhash}{S4}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Str}24}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Accessed: 2024-06-16}
+    \field{title}{Streamlit Documentation}
+    \verb{url}
+    \verb https://docs.streamlit.io/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Surya:2023}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Surya},
+         familyi={S\bibinitperiod},
+         given={Aaditya},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA+1}
+    \strng{fullhash}{SA+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sur+23}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Enhanced Breast Cancer Tumor Classification using
+  MobileNetV2: A Detailed Exploration on Image Intensity, Error Mitigation, and
+  Streamlit-driven Real-time Deployment}
+    \verb{url}
+    \verb https://arxiv.org/abs/2312.03020
+    \endverb
+    \field{journaltitle}{arXiv preprint arXiv:2312.03020}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Pandas:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{The pandas development team}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{The}24}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{Comprehensive official documentation covering API reference,
+  user guide, and tutorials. The definitive resource for pandas functionality
+  and best practices. Accessed: 2024-06-17}
+    \field{title}{pandas: powerful Python data analysis toolkit}
+    \verb{url}
+    \verb https://pandas.pydata.org/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{TowardsDataScience:2023}{article}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{Towards Data Science Community}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T2}
+    \strng{fullhash}{T2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Tow}23}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{Tutorial covering practical applications of ARIMA models using
+  pmdarima, including seasonal and exogenous features.}
+    \field{title}{{Time Series Forecasting with ARIMA, SARIMA and SARIMAX}}
+    \verb{url}
+    \verb https://towardsdatascience.com/time-series-forecasting-with-arima-sar
+    \verb ima-and-sarimax-ee61099e78f6
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{Varoquaux:2022}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VG}{%
+         family={Varoquaux},
+         familyi={V\bibinitperiod},
+         given={Gael},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gramfort},
+         familyi={G\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PF}{%
+         family={Pedregosa},
+         familyi={P\bibinitperiod},
+         given={Fabian},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{VGGAPF1}
+    \strng{fullhash}{VGGAPF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{VGP22}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{note}{Academic paper detailing Joblib's design principles,
+  performance optimizations for NumPy arrays, and applications in scientific
+  computing workflows. Provides theoretical foundation for caching mechanisms
+  and parallel processing strategies.}
+    \field{number}{3}
+    \field{pages}{45\bibrangedash 52}
+    \field{title}{Joblib: Optimizing Python for Scientific Computing}
+    \field{volume}{24}
+    \field{journaltitle}{Computing in Science \& Engineering}
+    \field{year}{2022}
+  \endentry
+
+  \entry{VanderPlas:2016}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VJ}{%
+         family={VanderPlas},
+         familyi={V\bibinitperiod},
+         given={Jake},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {O'Reilly Media}%
+    }
+    \strng{namehash}{VJ1}
+    \strng{fullhash}{VJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Van16}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{isbn}{978-1491912058}
+    \field{note}{Comprehensive guide to the Python data science ecosystem,
+  including extensive coverage of pandas integration with NumPy, matplotlib,
+  and scikit-learn.}
+    \field{title}{Python Data Science Handbook: Essential Tools for Working
+  with Data}
+    \field{year}{2016}
+  \endentry
+
+  \entry{VanderPlas:2023}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VJ}{%
+         family={VanderPlas},
+         familyi={V\bibinitperiod},
+         given={Jake},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {O'Reilly Media}%
+    }
+    \strng{namehash}{VJ1}
+    \strng{fullhash}{VJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Van23}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{edition}{2nd}
+    \field{isbn}{978-1098121228}
+    \field{note}{Comprehensive handbook covering NumPy fundamentals alongside
+  pandas, matplotlib, and scikit-learn. Excellent resource for understanding
+  NumPy's role in the data science ecosystem}
+    \field{title}{Python Data Science Handbook: Essential Tools for Working
+  with Data}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Seaborn:2024}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=WM}{%
+         family={Waskom},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=S}{%
+         family={{Seaborn Development Team}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WMS1}
+    \strng{fullhash}{WMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{WS24}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Comprehensive official documentation covering statistical
+  visualization techniques, API reference, and gallery of examples. Primary
+  resource for seaborn usage and best practices. Accessed: 2024-06-18}
+    \field{title}{Seaborn: Statistical Data Visualization}
+    \verb{url}
+    \verb https://seaborn.pydata.org/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Waskom:2021}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WML}{%
+         family={Waskom},
+         familyi={W\bibinitperiod},
+         given={Michael\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WML1}
+    \strng{fullhash}{WML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Was21}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.21105/joss.03021
+    \endverb
+    \field{note}{Peer-reviewed paper describing seaborn's design philosophy,
+  statistical capabilities, and integration with the scientific Python
+  ecosystem. Essential reference for understanding seaborn's academic
+  foundations}
+    \field{number}{60}
+    \field{pages}{3021}
+    \field{title}{seaborn: statistical data visualization}
+    \verb{url}
+    \verb https://doi.org/10.21105/joss.03021
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{Journal of Open Source Software}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Winters:1960}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WPR}{%
+         family={Winters},
+         familyi={W\bibinitperiod},
+         given={Peter\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WPR1}
+    \strng{fullhash}{WPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Win60}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Foundational paper introducing the Holt-Winters exponential
+  smoothing method for forecasting time series with trend and seasonal
+  components. Establishes the mathematical framework for additive and
+  multiplicative seasonal models that remain standard in modern forecasting
+  practice.}
+    \field{number}{3}
+    \field{pages}{324\bibrangedash 342}
+    \field{title}{Forecasting Seasonals and Trends by Exponentially Weighted
+  Moving Averages}
+    \verb{url}
+    \verb https://pubsonline.informs.org/doi/abs/10.1287/mnsc.6.3.324
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{Management Science}
+    \field{year}{1960}
+  \endentry
+
+  \entry{Zhang:2021}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=ZJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Jiayuan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZJ1}
+    \strng{fullhash}{ZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Zha21}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{booktitle}{Proceedings of the 2021 International Conference on
+  Computers, Information Processing and Advanced Education}
+    \verb{doi}
+    \verb 10.1145/3456887.3459308
+    \endverb
+    \field{pages}{294\bibrangedash 298}
+    \field{title}{Sales Prediction of Walmart Based on Regression Models}
+    \verb{url}
+    \verb https://www.atlantis-press.com/article/125994715.pdf
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{Pandas:Community:2023}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=p}{%
+         family={{pandas development community}},
+         familyi={p\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{p1}
+    \strng{fullhash}{p1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{pan}23}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Community resources including development guidelines,
+  contributing guide, and ecosystem documentation. Valuable for understanding
+  pandas development practices and community standards. Accessed: 2024-06-17}
+    \field{title}{pandas Community and Ecosystem}
+    \verb{url}
+    \verb https://pandas.pydata.org/community/
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{PytestDocs:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=p}{%
+         family={{pytest Development Team}},
+         familyi={p\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{p2}
+    \strng{fullhash}{p2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{pyt}24}
+    \field{extraalpha}{1}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Official documentation section covering parametrization
+  techniques for test functions and fixtures. Includes examples of multiple
+  parameter sets, indirect parametrization, and custom parametrization schemes.
+  Accessed: 2024-06-19}
+    \field{title}{How to parametrize fixtures and test functions}
+    \verb{url}
+    \verb https://docs.pytest.org/en/stable/how-to/parametrize.html
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Pytest:2024}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=p}{%
+         family={{pytest Development Team}},
+         familyi={p\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{p2}
+    \strng{fullhash}{p2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{pyt}24}
+    \field{extraalpha}{2}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{Official pytest documentation providing comprehensive API
+  reference, tutorials, and best practices for Python testing. Covers fixtures,
+  parametrization, plugins, and advanced testing techniques. Accessed:
+  2024-06-19}
+    \field{title}{pytest: helps you write better programs}
+    \verb{url}
+    \verb https://docs.pytest.org/
+    \endverb
+    \field{year}{2024}
+  \endentry
+\enddatalist
+\endinput

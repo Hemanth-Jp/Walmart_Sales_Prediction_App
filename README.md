@@ -5,8 +5,6 @@
 
 **Time Series Forecasting System for Walmart Sales Prediction**
 
-**Authors:** 
-- Hemanth Jadiswami Prabhakaran (7026000)
 
 
 **Supervisor:** Prof. Dr. Elmar Wings

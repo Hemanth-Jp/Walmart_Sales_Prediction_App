@@ -1,0 +1,25 @@
+\babel@toc {german}{}\relax 
+\babel@toc {german}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{5}{0}{1}
+\beamer@sectionintoc {2}{Literature Review Article: 1}{7}{0}{2}
+\beamer@sectionintoc {3}{Literature Review Article: 2}{10}{0}{3}
+\beamer@sectionintoc {4}{Literature Review Article: 3}{13}{0}{4}
+\beamer@sectionintoc {5}{Literature Review Article: 4}{16}{0}{5}
+\beamer@sectionintoc {6}{Literature Review Article: 5}{19}{0}{6}
+\beamer@sectionintoc {7}{Literature Review Article: 6}{22}{0}{7}
+\beamer@sectionintoc {8}{Literature Review Article: 7}{25}{0}{8}
+\beamer@sectionintoc {9}{Literature Review Article: 8}{28}{0}{9}
+\beamer@sectionintoc {10}{Literature Review Article: 9}{31}{0}{10}
+\beamer@sectionintoc {11}{Literature Review Article: 10}{34}{0}{11}
+\beamer@sectionintoc {12}{Literature Review Article: 11}{37}{0}{12}
+\beamer@sectionintoc {13}{Literature Review Article: 12}{40}{0}{13}
+\beamer@sectionintoc {14}{Literature Review Article: 13}{43}{0}{14}
+\beamer@sectionintoc {15}{Literature Review Article: 14}{46}{0}{15}
+\beamer@sectionintoc {16}{Literature Review Article: 15}{49}{0}{16}
+\beamer@sectionintoc {17}{Literature Review Article: 16}{52}{0}{17}
+\beamer@sectionintoc {18}{Literature Review Article: 17}{55}{0}{18}
+\beamer@sectionintoc {19}{Literature Review Article: 18}{58}{0}{19}
+\beamer@sectionintoc {20}{Literature Review Article: 19}{61}{0}{20}
+\beamer@sectionintoc {21}{Literature Review Article: 20}{64}{0}{21}
+\beamer@sectionintoc {22}{Summary and Conclusion}{67}{0}{22}
+\beamer@sectionintoc {23}{Quellen}{71}{0}{23}

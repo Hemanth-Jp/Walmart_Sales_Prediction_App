@@ -1,0 +1,78 @@
+\acswitchoff 
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Streamlit Application Architecture \blx@tocontentsinit {0}\cite {Streamlit:2024}}}{33}{figure.caption.6}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Interactive Streamlit Application Flow}}{36}{figure.caption.7}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces ML Model Deployment Architecture}}{38}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Pandas Library Architecture \blx@tocontentsinit {0}\cite {Pandas:2024}}}{46}{figure.caption.9}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Advanced Data Analysis Workflow}}{51}{figure.caption.10}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces DataFrame Operations and Time Series Processing}}{52}{figure.caption.11}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Performance Optimization Strategies}}{55}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces NumPy Architecture and Memory Layout \blx@tocontentsinit {0}\cite {NumPy:2024}}}{62}{figure.caption.13}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Linear Algebra Operations Workflow}}{65}{figure.caption.14}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Scientific Computing Workflow with NumPy}}{67}{figure.caption.15}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces NumPy Performance Optimization Strategies}}{69}{figure.caption.16}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Matplotlib Architecture Components \blx@tocontentsinit {0}\cite {Matplotlib:2024}}}{78}{figure.caption.17}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Advanced Visualization Workflow}}{84}{figure.caption.18}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Scientific Plotting Capabilities}}{87}{figure.caption.19}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Seaborn Visualization Architecture \blx@tocontentsinit {0}\cite {Seaborn:2024}}}{98}{figure.caption.20}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Statistical Analysis Workflow with Seaborn}}{102}{figure.caption.21}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Publication Visualization Pipeline}}{103}{figure.caption.22}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Plotly Visualization Architecture \blx@tocontentsinit {0}\cite {Plotly:2024}}}{113}{figure.caption.23}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Interactive Dashboard Data Flow}}{117}{figure.caption.24}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Scientific Visualization Workflow}}{119}{figure.caption.25}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Joblib Performance Optimization Architecture \blx@tocontentsinit {0}\cite {Joblib:2024}}}{130}{figure.caption.26}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Parallel Processing Workflow with Joblib}}{134}{figure.caption.27}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Model Persistence and Caching Workflow}}{136}{figure.caption.28}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {12.1}{\ignorespaces Statsmodels Statistical Modeling Architecture \blx@tocontentsinit {0}\cite {Statsmodels:2024}}}{160}{figure.caption.35}%
+\contentsline {figure}{\numberline {12.2}{\ignorespaces Time Series Analysis Workflow}}{165}{figure.caption.36}%
+\contentsline {figure}{\numberline {12.3}{\ignorespaces Logistic Regression Modeling Process}}{166}{figure.caption.37}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {13.1}{\ignorespaces Pmdarima Library Architecture \blx@tocontentsinit {0}\cite {Pmdarima:2024}}}{178}{figure.caption.38}%
+\contentsline {figure}{\numberline {13.2}{\ignorespaces Seasonal ARIMA Modeling Workflow}}{182}{figure.caption.39}%
+\contentsline {figure}{\numberline {13.3}{\ignorespaces Production Pipeline Architecture}}{183}{figure.caption.40}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {14.1}{\ignorespaces Pytest Framework Architecture \blx@tocontentsinit {0}\cite {Pytest:2024}}}{194}{figure.caption.41}%
+\contentsline {figure}{\numberline {14.2}{\ignorespaces Pytest Fixture Lifecycle and Dependency Flow}}{198}{figure.caption.42}%
+\contentsline {figure}{\numberline {14.3}{\ignorespaces API Testing Architecture with Pytest}}{200}{figure.caption.43}%
+\contentsline {figure}{\numberline {14.4}{\ignorespaces Database Testing Workflow}}{203}{figure.caption.44}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {16.1}{\ignorespaces Auto ARIMA Algorithm Workflow}}{219}{figure.caption.45}%
+\contentsline {figure}{\numberline {16.2}{\ignorespaces Parameter Selection Process}}{221}{figure.caption.46}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {17.1}{\ignorespaces Exponential Smoothing Algorithm Workflow}}{235}{figure.caption.47}%
+\contentsline {figure}{\numberline {17.2}{\ignorespaces Parameter Selection and Component Decomposition}}{235}{figure.caption.48}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {19.1}{\ignorespaces (KDD) Process Framework}}{262}{figure.caption.49}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {24.1}{\ignorespaces System Development Workflow}}{309}{figure.caption.51}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {26.1}{\ignorespaces Training Application Deployment Workflow}}{324}{figure.caption.58}%
+\contentsline {figure}{\numberline {26.2}{\ignorespaces Prediction Application Deployment Workflow}}{325}{figure.caption.61}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {32.1}{\ignorespaces Lenovo Laptop}}{382}{figure.caption.111}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }

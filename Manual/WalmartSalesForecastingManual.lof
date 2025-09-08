@@ -1,0 +1,74 @@
+\acswitchoff 
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Walmart Sales Forecasting System Architecture Overview}}{2}{figure.1.1}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Dual-Application Interface Comparison}}{3}{figure.1.2}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Model Training Workflow Interface}}{5}{figure.1.3}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Prediction Application Main Interface}}{6}{figure.1.4}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Deployment Options Technical Comparison}}{9}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Cloud Application Loading Interface}}{10}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Python Version Verification}}{12}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Virtual Environment Creation and Activation}}{13}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Dependencies Installation Process}}{14}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Local Application Launch Success}}{15}{figure.2.6}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Successful Test Suite Execution}}{17}{figure.2.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces First Steps Workflow Process}}{20}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Prediction Application Loading Screen}}{21}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Main Interface Layout Overview}}{22}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Default Model Loading Process}}{23}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Forecast Generation Process}}{24}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sample Forecast Results with Interpretation}}{25}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Summary Statistics Display}}{26}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Forecast Results Download Options}}{27}{figure.3.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces User Interface Design Architecture}}{32}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Training Application Complete Interface Overview}}{33}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Training Application Header and Introduction}}{33}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces File Upload Interface with Multi-Column Layout}}{34}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Model Selection Dropdown Interface}}{34}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Dynamic Hyperparameter Configuration Interface}}{35}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Training Execution and Progress Interface}}{36}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Training Results Display with Performance Metrics}}{37}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Prediction Application Complete Interface Overview}}{38}{figure.4.9}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Prediction Application Header and Welcome Section}}{38}{figure.4.10}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Model Selection Tabbed Interface}}{39}{figure.4.11}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Current Model Status Display}}{39}{figure.4.12}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Prediction Generation Control Interface}}{40}{figure.4.13}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Interactive Results Visualization Interface}}{41}{figure.4.14}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Formatted Data Table with Color Coding}}{41}{figure.4.15}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Download and Export Interface Options}}{42}{figure.4.16}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Complete Feature Ecosystem Overview}}{45}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Multi-File Data Upload Interface}}{46}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Data Preprocessing Pipeline Results}}{47}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Auto ARIMA Training Configuration}}{48}{figure.5.4}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Exponential Smoothing Training Configuration}}{48}{figure.5.5}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Model Performance Evaluation Display}}{49}{figure.5.6}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Comprehensive Diagnostic Visualization}}{50}{figure.5.7}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Model Export and Download Interface}}{51}{figure.5.8}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Default Model Loading Interface}}{52}{figure.5.9}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Custom Model Upload Interface}}{53}{figure.5.10}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Prediction Generation Process Interface}}{54}{figure.5.11}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Interactive Chart Visualization with Controls}}{56}{figure.5.12}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Formatted Data Table with Color Coding}}{57}{figure.5.13}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Multi-Format Export Options Interface}}{57}{figure.5.14}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Summary Statistics and Business Intelligence Display}}{58}{figure.5.15}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Model Transfer Workflow Between Applications}}{59}{figure.5.16}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces System Technical Architecture and Requirements}}{63}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Example Data Schema and Format Requirements}}{69}{figure.6.2}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces System Maintenance and Best Practices Workflow}}{76}{figure.7.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Data Schema Validation Error Resolution}}{94}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Data Schema Validation Error Resolution}}{96}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Memory Management and Optimization Interface}}{100}{figure.8.3}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Pytest Validation and Diagnostic Results}}{103}{figure.8.4}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Pytest Validation and Diagnostic Results}}{103}{figure.8.5}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Pytest Validation and Diagnostic Results}}{104}{figure.8.6}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Pytest Validation and Diagnostic code}}{105}{figure.8.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Comprehensive Support Ecosystem}}{110}{figure.9.1}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

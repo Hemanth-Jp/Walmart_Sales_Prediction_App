@@ -1,0 +1,273 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{Fildes:2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FR}{%
+         family={Fildes},
+         familyi={F\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Goodwin},
+         familyi={G\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FRGP1}
+    \strng{fullhash}{FRGP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{FG19}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1016/j.ijforecast.2018.09.008
+    \endverb
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 9}
+    \field{title}{Retail forecasting: Research and practice}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/abs/pii/S01692070193019
+    \verb 2X
+    \endverb
+    \field{volume}{35}
+    \field{journaltitle}{International Journal of Forecasting}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Loyal:2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LJD}{%
+         family={Loyal},
+         familyi={L\bibinitperiod},
+         given={Joshua\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJD1}
+    \strng{fullhash}{LJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Loy17}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{The Walmart Sales Project}
+    \verb{url}
+    \verb https://joshloyal.github.io/assets/pdf/forecasting\_intro.pdf
+    \endverb
+    \field{journaltitle}{Unpublished Manuscript}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Mane:2022}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=MS}{%
+         family={Mane},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Ghodke},
+         familyi={G\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bobde},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bodke},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Prof},
+         familyi={P\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{MS+1}
+    \strng{fullhash}{MSGBBSBAPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Man+22}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{2022 IEEE International Conference on Distributed
+  Computing and Electrical Circuits and Electronics (ICDCECE)}
+    \verb{doi}
+    \verb 10.1109/ICDCECE53908.2022.9725496
+    \endverb
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Comparative Analysis of ML Algorithms \& Stream Lit Web
+  Application}
+    \field{year}{2022}
+  \endentry
+
+  \entry{McElroy:2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MTS}{%
+         family={McElroy},
+         familyi={M\bibinitperiod},
+         given={Tucker\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MBC}{%
+         family={Monsell},
+         familyi={M\bibinitperiod},
+         given={Brian\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HRJ}{%
+         family={Hutchinson},
+         familyi={H\bibinitperiod},
+         given={Rebecca\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MTSMBCHRJ1}
+    \strng{fullhash}{MTSMBCHRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MMH18}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Modeling of Holiday Effects and Seasonality in Daily Time
+  Series}
+    \verb{url}
+    \verb https://www.census.gov/content/dam/Census/library/working-papers/2018
+    \verb /adrm/rrs2018-01.pdf
+    \endverb
+    \field{journaltitle}{U.S. Census Bureau Working Papers}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Pao:2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PJJ}{%
+         family={Pao},
+         familyi={P\bibinitperiod},
+         given={James\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SDS}{%
+         family={Sullivan},
+         familyi={S\bibinitperiod},
+         given={Danielle\bibnamedelima S.},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PJJSDS1}
+    \strng{fullhash}{PJJSDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{PS17}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Time Series Sales Forecasting}
+    \verb{url}
+    \verb https://cs229.stanford.edu/proj2017/final-reports/5244336.pdf
+    \endverb
+    \field{journaltitle}{CS229: Machine Learning Final Projects}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Surya:2023}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SA}{%
+         family={Surya},
+         familyi={S\bibinitperiod},
+         given={Aaditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KN}{%
+         family={Kwatra},
+         familyi={K\bibinitperiod},
+         given={Naman},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Garg},
+         familyi={G\bibinitperiod},
+         given={Aastha},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Jindal},
+         familyi={J\bibinitperiod},
+         given={Saksham},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA+1}
+    \strng{fullhash}{SAKNGAJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sur+23}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Enhanced Breast Cancer Tumor Classification using
+  MobileNetV2: A Detailed Exploration on Image Intensity, Error Mitigation, and
+  Streamlit-driven Real-time Deployment}
+    \field{journaltitle}{arXiv preprint arXiv:2312.03020}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Zhang:2021}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=ZJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Jiayuan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZJ1}
+    \strng{fullhash}{ZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Zha21}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{booktitle}{Proceedings of the 2021 International Conference on
+  Computers, Information Processing and Advanced Education}
+    \verb{doi}
+    \verb 10.1145/3456887.3459308
+    \endverb
+    \field{pages}{294\bibrangedash 298}
+    \field{title}{Sales Prediction of Walmart Based on Regression Models}
+    \verb{url}
+    \verb https://www.atlantis-press.com/article/125994715.pdf
+    \endverb
+    \field{year}{2021}
+  \endentry
+\enddatalist
+\endinput

@@ -1,0 +1,292 @@
+\acswitchoff 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{ List of figures}{vii}{chapter*.1}%
+\contentsline {chapter}{ List of tables}{ix}{chapter*.2}%
+\contentsline {chapter}{ Acronyms}{xi}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introduction and Main Function}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Overview}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Primary Capabilities}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Dual-Application Architecture}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Advanced Time Series Modeling}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Flexible Deployment Options}{4}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Core Functionality}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Model Training Capabilities}{4}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Production Forecasting Features}{5}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Key Performance Characteristics}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Model Accuracy}{6}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Technical Specifications}{6}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Target Applications}{7}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Document Structure}{7}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Installation and Setup}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Deployment Options Overview}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Cloud Access (Recommended for Quick Start)}{10}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Immediate Browser Access}{10}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Cloud Access Procedure}{10}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Cloud Advantages}{11}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Cloud Limitations}{11}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Local Installation (Advanced Users)}{11}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}System Requirements}{11}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Python 3.12 Installation Verification}{11}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Virtual Environment Setup}{12}{subsection.2.3.3}%
+\contentsline {subsubsection}{\nonumberline Windows Setup}{12}{subsubsection*.6}%
+\contentsline {subsubsection}{\nonumberline macOS/Linux Setup}{12}{subsubsection*.8}%
+\contentsline {subsection}{\numberline {2.3.4}Dependencies Installation}{13}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Local Application Launch}{14}{subsection.2.3.5}%
+\contentsline {subsubsection}{\nonumberline Training Application}{14}{subsubsection*.10}%
+\contentsline {subsubsection}{\nonumberline Prediction Application}{14}{subsubsection*.12}%
+\contentsline {section}{\numberline {2.4}Installation Validation}{16}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Test Suite Execution}{16}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Successful Installation Indicators}{16}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Troubleshooting Common Setup Issues}{17}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Python Version Conflicts}{17}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Virtual Environment Activation Problems}{18}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Dependency Installation Failures}{18}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}Next Steps}{18}{section.2.6}%
+\contentsline {chapter}{\numberline {3}First Steps Guide}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Getting Started Overview}{19}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Quick Start: Your First Forecast}{20}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Step 1: Access the Prediction Application}{20}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Step 2: Understand the Interface Layout}{21}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Step 3: Load the Default Model}{22}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Step 4: Generate Your First Forecast}{23}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Understanding Your First Results}{24}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Forecast Interpretation}{24}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Interactive Visualization}{25}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Data Table Review}{25}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Exploring Summary Statistics}{26}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Performance Metrics}{26}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Model Quality Indicator}{26}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Downloading Your Results}{26}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Export Options}{26}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}Next Steps After Your First Forecast}{27}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Immediate Actions}{27}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Advanced Exploration}{27}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Common First-Time Questions}{27}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Understanding Predictions}{27}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Technical Questions}{28}{subsection.3.7.2}%
+\contentsline {section}{\numberline {3.8}Troubleshooting First Steps}{28}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Application Loading Issues}{28}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Model Loading Failures}{28}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Prediction Generation Errors}{28}{subsection.3.8.3}%
+\contentsline {section}{\numberline {3.9}Building Confidence with Practice}{29}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Recommended Practice Steps}{29}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Learning Path}{29}{subsection.3.9.2}%
+\contentsline {section}{\numberline {3.10}Summary}{29}{section.3.10}%
+\contentsline {chapter}{\numberline {4}GUI and User Interface Documentation}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Interface Design Philosophy}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Training Application Interface}{32}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Main Navigation Structure}{32}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Header Section}{33}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}File Upload Section}{33}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Model Selection Interface}{34}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Hyperparameter Configuration}{34}{subsection.4.2.5}%
+\contentsline {subsubsection}{\nonumberline Auto ARIMA Parameters}{35}{subsubsection*.14}%
+\contentsline {subsubsection}{\nonumberline Exponential Smoothing Parameters}{35}{subsubsection*.16}%
+\contentsline {subsection}{\numberline {4.2.6}Training Execution Interface}{35}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Results Display Interface}{36}{subsection.4.2.7}%
+\contentsline {section}{\numberline {4.3}Prediction Application Interface}{37}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Main Interface Layout}{37}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Application Header}{38}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Model Selection Tabs}{38}{subsection.4.3.3}%
+\contentsline {subsubsection}{\nonumberline Default Models Tab}{39}{subsubsection*.18}%
+\contentsline {subsubsection}{\nonumberline Upload Model Tab}{39}{subsubsection*.20}%
+\contentsline {subsection}{\numberline {4.3.4}Current Model Status}{39}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Prediction Generation Interface}{40}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Results Visualization Interface}{40}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}Data Table Interface}{41}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}Download and Export Interface}{41}{subsection.4.3.8}%
+\contentsline {section}{\numberline {4.4}Common Interface Elements}{42}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Navigation and Layout}{42}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Responsive Design}{42}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Accessibility Features}{42}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Interactive Features}{43}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Real-Time Feedback}{43}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Chart Interactivity}{43}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Interface Customization}{43}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Theme and Styling}{43}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Layout Preferences}{43}{subsection.4.6.2}%
+\contentsline {section}{\numberline {4.7}Interface Best Practices}{44}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Optimal Usage Patterns}{44}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Performance Optimization}{44}{subsection.4.7.2}%
+\contentsline {chapter}{\numberline {5}Application Functions and Features}{45}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Comprehensive Feature Overview}{45}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Training Application Functions}{45}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Data Management Features}{45}{subsection.5.2.1}%
+\contentsline {subsubsection}{\nonumberline Multi-File Data Upload}{45}{subsubsection*.22}%
+\contentsline {subsubsection}{\nonumberline Automated Data Preprocessing}{46}{subsubsection*.24}%
+\contentsline {subsection}{\numberline {5.2.2}Model Training Functions}{47}{subsection.5.2.2}%
+\contentsline {subsubsection}{\nonumberline Auto ARIMA Training}{47}{subsubsection*.26}%
+\contentsline {subsubsection}{\nonumberline Exponential Smoothing Training}{48}{subsubsection*.28}%
+\contentsline {subsection}{\numberline {5.2.3}Model Evaluation Features}{49}{subsection.5.2.3}%
+\contentsline {subsubsection}{\nonumberline Performance Metrics}{49}{subsubsection*.30}%
+\contentsline {subsubsection}{\nonumberline Diagnostic Visualization}{49}{subsubsection*.32}%
+\contentsline {subsection}{\numberline {5.2.4}Model Export and Management}{50}{subsection.5.2.4}%
+\contentsline {subsubsection}{\nonumberline Model Serialization}{50}{subsubsection*.34}%
+\contentsline {section}{\numberline {5.3}Prediction Application Functions}{51}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Model Loading Features}{51}{subsection.5.3.1}%
+\contentsline {subsubsection}{\nonumberline Default Model Access}{51}{subsubsection*.36}%
+\contentsline {subsubsection}{\nonumberline Custom Model Upload}{52}{subsubsection*.38}%
+\contentsline {subsection}{\numberline {5.3.2}Forecasting Functions}{53}{subsection.5.3.2}%
+\contentsline {subsubsection}{\nonumberline Prediction Generation}{53}{subsubsection*.40}%
+\contentsline {subsubsection}{\nonumberline Results Interpretation}{54}{subsubsection*.42}%
+\contentsline {subsection}{\numberline {5.3.3}Visualization Features}{55}{subsection.5.3.3}%
+\contentsline {subsubsection}{\nonumberline Interactive Chart Display}{55}{subsubsection*.44}%
+\contentsline {subsubsection}{\nonumberline Data Table Presentation}{56}{subsubsection*.46}%
+\contentsline {subsection}{\numberline {5.3.4}Export and Analysis Features}{57}{subsection.5.3.4}%
+\contentsline {subsubsection}{\nonumberline Multi-Format Export}{57}{subsubsection*.48}%
+\contentsline {subsubsection}{\nonumberline Summary Statistics}{58}{subsubsection*.50}%
+\contentsline {section}{\numberline {5.4}Cross-Application Integration}{58}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Model Transfer Workflow}{58}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Workflow Optimization}{59}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Advanced Features}{60}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Error Handling and Validation}{60}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Performance Optimization}{60}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5.6}Feature Comparison Matrix}{61}{section.5.6}%
+\contentsline {chapter}{\numberline {6}System Specifications}{63}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Technical Requirements Overview}{63}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Local Installation Requirements}{63}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Core System Requirements}{63}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Software Dependencies}{64}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Port and Network Configuration}{65}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Cloud Deployment Specifications}{66}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Streamlit Cloud Infrastructure}{66}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Browser Compatibility}{67}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Data Format Specifications}{67}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Input Data Requirements}{67}{subsection.6.4.1}%
+\contentsline {subsubsection}{\nonumberline train.csv Requirements}{67}{subsubsection*.52}%
+\contentsline {subsubsection}{\nonumberline features.csv Requirements}{67}{subsubsection*.54}%
+\contentsline {subsubsection}{\nonumberline stores.csv Requirements}{68}{subsubsection*.56}%
+\contentsline {subsection}{\numberline {6.4.2}Model File Specifications}{70}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Output Format Specifications}{70}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Performance Specifications}{71}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Model Training Performance}{71}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Prediction Performance}{71}{subsection.6.5.2}%
+\contentsline {section}{\numberline {6.6}Security and Compliance}{72}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Data Security}{72}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Privacy Considerations}{72}{subsection.6.6.2}%
+\contentsline {section}{\numberline {6.7}Limitations and Constraints}{72}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Technical Limitations}{72}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Platform Constraints}{73}{subsection.6.7.2}%
+\contentsline {chapter}{\numberline {7}Maintenance and Best Practices}{75}{chapter.7}%
+\contentsline {section}{\numberline {7.1}System Maintenance Overview}{75}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Regular Maintenance Procedures}{76}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Local Installation Maintenance}{76}{subsection.7.2.1}%
+\contentsline {subsubsection}{\nonumberline Virtual Environment Management}{76}{subsubsection*.58}%
+\contentsline {subsubsection}{\nonumberline Application Health Monitoring}{77}{subsubsection*.60}%
+\contentsline {subsection}{\numberline {7.2.2}Model Management}{78}{subsection.7.2.2}%
+\contentsline {subsubsection}{\nonumberline Model Version Control}{78}{subsubsection*.62}%
+\contentsline {subsubsection}{\nonumberline Model Performance Monitoring}{78}{subsubsection*.64}%
+\contentsline {section}{\numberline {7.3}Data Quality Management}{79}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Input Data Validation}{79}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Data Refresh Procedures}{79}{subsection.7.3.2}%
+\contentsline {section}{\numberline {7.4}Performance Optimization}{80}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}System Performance Tuning}{80}{subsection.7.4.1}%
+\contentsline {subsubsection}{\nonumberline Memory Optimization}{80}{subsubsection*.66}%
+\contentsline {subsubsection}{\nonumberline Processing Speed Optimization}{81}{subsubsection*.68}%
+\contentsline {subsection}{\numberline {7.4.2}Cloud Usage Optimization}{81}{subsection.7.4.2}%
+\contentsline {subsubsection}{\nonumberline Efficient Cloud Operations}{81}{subsubsection*.70}%
+\contentsline {section}{\numberline {7.5}Security and Access Management}{81}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Local Installation Security}{81}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Data Privacy Protection}{82}{subsection.7.5.2}%
+\contentsline {section}{\numberline {7.6}Operational Best Practices}{82}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Workflow Standardization}{82}{subsection.7.6.1}%
+\contentsline {subsubsection}{\nonumberline Training Workflow Standards}{82}{subsubsection*.72}%
+\contentsline {subsubsection}{\nonumberline Prediction Workflow Standards}{83}{subsubsection*.74}%
+\contentsline {subsection}{\numberline {7.6.2}Quality Assurance}{83}{subsection.7.6.2}%
+\contentsline {subsubsection}{\nonumberline Prediction Quality Control}{83}{subsubsection*.76}%
+\contentsline {subsubsection}{\nonumberline Continuous Improvement}{84}{subsubsection*.78}%
+\contentsline {section}{\numberline {7.7}Maintenance Schedule}{84}{section.7.7}%
+\contentsline {subsection}{\numberline {7.7.1}Daily Operations}{84}{subsection.7.7.1}%
+\contentsline {subsection}{\numberline {7.7.2}Weekly Maintenance}{84}{subsection.7.7.2}%
+\contentsline {subsection}{\numberline {7.7.3}Monthly Maintenance}{85}{subsection.7.7.3}%
+\contentsline {subsection}{\numberline {7.7.4}Quarterly Maintenance}{85}{subsection.7.7.4}%
+\contentsline {chapter}{\numberline {8}Troubleshooting}{87}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Troubleshooting Framework}{87}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Installation and Setup Issues}{87}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Python Version Problems}{87}{subsection.8.2.1}%
+\contentsline {subsubsection}{\nonumberline Wrong Python Version}{87}{subsubsection*.80}%
+\contentsline {subsubsection}{\nonumberline Multiple Python Installations}{88}{subsubsection*.82}%
+\contentsline {subsection}{\numberline {8.2.2}Virtual Environment Issues}{88}{subsection.8.2.2}%
+\contentsline {subsubsection}{\nonumberline Environment Activation Failures}{88}{subsubsection*.84}%
+\contentsline {subsection}{\numberline {8.2.3}Dependency Installation Problems}{89}{subsection.8.2.3}%
+\contentsline {subsubsection}{\nonumberline Package Installation Failures}{89}{subsubsection*.86}%
+\contentsline {section}{\numberline {8.3}Application Launch Issues}{90}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Streamlit Startup Problems}{90}{subsection.8.3.1}%
+\contentsline {subsubsection}{\nonumberline Port Already in Use}{90}{subsubsection*.88}%
+\contentsline {subsubsection}{\nonumberline Import Errors on Startup}{91}{subsubsection*.90}%
+\contentsline {section}{\numberline {8.4}Cloud Application Issues}{92}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Cloud Access Problems}{92}{subsection.8.4.1}%
+\contentsline {subsubsection}{\nonumberline Application Won't Load}{92}{subsubsection*.92}%
+\contentsline {subsubsection}{\nonumberline Session Timeout Issues}{92}{subsubsection*.94}%
+\contentsline {subsection}{\numberline {8.4.2}File Upload Problems}{93}{subsection.8.4.2}%
+\contentsline {subsubsection}{\nonumberline Upload Failures}{93}{subsubsection*.96}%
+\contentsline {section}{\numberline {8.5}Data-Related Issues}{94}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Data Format Problems}{94}{subsection.8.5.1}%
+\contentsline {subsubsection}{\nonumberline CSV Schema Errors}{94}{subsubsection*.98}%
+\contentsline {subsubsection}{\nonumberline Data Quality Issues}{95}{subsubsection*.100}%
+\contentsline {subsection}{\numberline {8.5.2}Model Compatibility Issues}{96}{subsection.8.5.2}%
+\contentsline {subsubsection}{\nonumberline Model Loading Failures}{96}{subsubsection*.102}%
+\contentsline {section}{\numberline {8.6}Performance Issues}{97}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}Slow Training Performance}{97}{subsection.8.6.1}%
+\contentsline {subsubsection}{\nonumberline Training Takes Too Long}{97}{subsubsection*.104}%
+\contentsline {subsection}{\numberline {8.6.2}Memory Issues}{98}{subsection.8.6.2}%
+\contentsline {subsubsection}{\nonumberline Out of Memory Errors}{98}{subsubsection*.106}%
+\contentsline {section}{\numberline {8.7}Prediction Issues}{101}{section.8.7}%
+\contentsline {subsection}{\numberline {8.7.1}Prediction Generation Failures}{101}{subsection.8.7.1}%
+\contentsline {subsubsection}{\nonumberline Forecast Generation Errors}{101}{subsubsection*.108}%
+\contentsline {subsection}{\numberline {8.7.2}Result Interpretation Issues}{101}{subsection.8.7.2}%
+\contentsline {subsubsection}{\nonumberline Unexpected Forecast Values}{101}{subsubsection*.110}%
+\contentsline {section}{\numberline {8.8}Test Suite Validation}{102}{section.8.8}%
+\contentsline {subsection}{\numberline {8.8.1}Using Pytest for Troubleshooting}{102}{subsection.8.8.1}%
+\contentsline {subsubsection}{\nonumberline Running Diagnostic Tests}{102}{subsubsection*.112}%
+\contentsline {subsubsection}{\nonumberline Custom Diagnostic Tests}{103}{subsubsection*.114}%
+\contentsline {section}{\numberline {8.9}Advanced Troubleshooting}{104}{section.8.9}%
+\contentsline {subsection}{\numberline {8.9.1}Log Analysis}{104}{subsection.8.9.1}%
+\contentsline {subsubsection}{\nonumberline Enabling Debug Logging}{104}{subsubsection*.116}%
+\contentsline {subsection}{\numberline {8.9.2}Performance Profiling}{104}{subsection.8.9.2}%
+\contentsline {section}{\numberline {8.10}Emergency Recovery Procedures}{104}{section.8.10}%
+\contentsline {subsection}{\numberline {8.10.1}System Recovery}{104}{subsection.8.10.1}%
+\contentsline {subsubsection}{\nonumberline Complete Environment Reset}{104}{subsubsection*.118}%
+\contentsline {subsection}{\numberline {8.10.2}Data Recovery}{105}{subsection.8.10.2}%
+\contentsline {subsubsection}{\nonumberline Recovering Lost Work}{105}{subsubsection*.120}%
+\contentsline {section}{\numberline {8.11}Getting Additional Help}{106}{section.8.11}%
+\contentsline {subsection}{\numberline {8.11.1}Documentation Resources}{106}{subsection.8.11.1}%
+\contentsline {subsection}{\numberline {8.11.2}Community Support}{106}{subsection.8.11.2}%
+\contentsline {section}{\numberline {8.12}Troubleshooting Quick Reference}{107}{section.8.12}%
+\contentsline {chapter}{\numberline {9}Help and Support}{109}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Support Resources Overview}{109}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Frequently Asked Questions}{111}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}General System Questions}{111}{subsection.9.2.1}%
+\contentsline {subsubsection}{\nonumberline Getting Started}{111}{subsubsection*.122}%
+\contentsline {subsubsection}{\nonumberline Data Requirements}{111}{subsubsection*.124}%
+\contentsline {subsection}{\numberline {9.2.2}Technical Questions}{111}{subsection.9.2.2}%
+\contentsline {subsubsection}{\nonumberline Installation and Setup}{111}{subsubsection*.126}%
+\contentsline {subsubsection}{\nonumberline Model and Predictions}{112}{subsubsection*.128}%
+\contentsline {subsection}{\numberline {9.2.3}Advanced Usage Questions}{112}{subsection.9.2.3}%
+\contentsline {subsubsection}{\nonumberline Model Customization}{112}{subsubsection*.130}%
+\contentsline {subsubsection}{\nonumberline Data and Performance}{112}{subsubsection*.132}%
+\contentsline {section}{\numberline {9.3}User Support Resources}{113}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Self-Help Resources}{113}{subsection.9.3.1}%
+\contentsline {subsubsection}{\nonumberline Documentation Hierarchy}{113}{subsubsection*.134}%
+\contentsline {subsubsection}{\nonumberline Hands-On Learning}{113}{subsubsection*.136}%
+\contentsline {subsection}{\numberline {9.3.2}Community Resources}{113}{subsection.9.3.2}%
+\contentsline {subsubsection}{\nonumberline Online Communities}{113}{subsubsection*.138}%
+\contentsline {subsubsection}{\nonumberline Educational Resources}{114}{subsubsection*.140}%
+\contentsline {section}{\numberline {9.4}Technical Support}{114}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}Issue Reporting}{114}{subsection.9.4.1}%
+\contentsline {subsubsection}{\nonumberline Before Reporting Issues}{114}{subsubsection*.142}%
+\contentsline {subsubsection}{\nonumberline Information to Include}{115}{subsubsection*.144}%
+\contentsline {subsection}{\numberline {9.4.2}Escalation Procedures}{115}{subsection.9.4.2}%
+\contentsline {subsubsection}{\nonumberline When to Escalate}{115}{subsubsection*.146}%
+\contentsline {subsubsection}{\nonumberline Academic Context Support}{116}{subsubsection*.148}%
+\contentsline {section}{\numberline {9.5}Quick Reference Guides}{116}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}Command Quick Reference}{116}{subsection.9.5.1}%
+\contentsline {subsubsection}{\nonumberline Essential Commands}{116}{subsubsection*.150}%
+\contentsline {subsection}{\numberline {9.5.2}URL Quick Reference}{117}{subsection.9.5.2}%
+\contentsline {section}{\numberline {9.6}Feedback and Improvement}{117}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.1}User Feedback}{117}{subsection.9.6.1}%
+\contentsline {subsubsection}{\nonumberline Providing Feedback}{117}{subsubsection*.152}%
+\contentsline {subsection}{\numberline {9.6.2}Continuous Improvement}{118}{subsection.9.6.2}%
+\contentsline {subsubsection}{\nonumberline Version Updates}{118}{subsubsection*.154}%
+\contentsline {subsubsection}{\nonumberline Feature Development}{118}{subsubsection*.156}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

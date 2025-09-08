@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Problem Description \& Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{System Architecture \& Applications}{12}{0}{2}
+\beamer@sectionintoc {3}{Technical Challenges \& Solutions}{21}{0}{3}
+\beamer@sectionintoc {4}{Results \& Performance}{30}{0}{4}
+\beamer@sectionintoc {5}{Conclusions \& Future Work}{41}{0}{5}
+\beamer@sectionintoc {6}{Sources}{53}{0}{6}
